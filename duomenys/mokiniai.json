@@ -1,0 +1,26 @@
+[{
+        "vardas": "Tomas",
+        "lokacija": true
+    },
+
+    {
+        "vardas": "Mantas",
+        "lokacija": false
+    },
+
+    {
+        "vardas": "Giedrius",
+        "lokacija": true
+    },
+
+    {
+        "vardas": "Antanas",
+        "lokacija": true
+    },
+
+    {
+        "vardas": "Renata",
+        "lokacija": false
+    }
+
+]
